@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: #ee82ee;
+    color: turquoise;
+    font-size:60px;
+}
+
+.monbouton {
+    background-color: darkmagenta;
+    border: none;
+    color: #42f2ff;
+    padding: 24px 58px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.monbouton:hover {
+    background-color: #42f2ff;
+    color:darkmagenta;
+    cursor: pointer;
+}
+
